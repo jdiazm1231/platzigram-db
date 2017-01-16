@@ -1,0 +1,15 @@
+2017-01-15T14:26:47.613430541 2.334521s notice: Recursively removing directory /var/www/html/platzi/js_definitivo/platzigram-db/rethinkdb_data/tmp
+2017-01-15T14:26:47.645333126 2.366422s notice: Initializing directory /var/www/html/platzi/js_definitivo/platzigram-db/rethinkdb_data
+2017-01-15T14:26:47.645546166 2.366634s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/var/www/html/platzi/js_definitivo/platzigram-db/rethinkdb_data' did not already exist or is empty.)
+2017-01-15T14:26:47.645598400 2.366687s notice: Running rethinkdb 2.3.5 (GCC 5.4.0)...
+2017-01-15T14:26:47.652871669 2.373965s notice: Running on Linux 4.4.0-57-generic x86_64
+2017-01-15T14:26:47.653059817 2.374148s notice: Loading data from directory /var/www/html/platzi/js_definitivo/platzigram-db/rethinkdb_data
+2017-01-15T14:26:47.948079174 2.669168s info: Automatically using cache size of 1447 MB
+2017-01-15T14:26:47.949189256 2.670277s notice: Listening for intracluster connections on port 29015
+2017-01-15T14:26:47.954625559 2.675714s notice: Listening for client driver connections on port 28015
+2017-01-15T14:26:47.955011822 2.676100s notice: Listening for administrative HTTP connections on port 8080
+2017-01-15T14:26:47.955019895 2.676108s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-15T14:26:47.955032038 2.676120s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-15T14:26:47.955037293 2.676125s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-01-15T14:26:47.955046065 2.676134s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-01-15T14:26:47.955054907 2.676143s notice: Server ready, "jonathan_pc_n8n" fd98f684-c6dc-435b-80d7-d00a964a7743
